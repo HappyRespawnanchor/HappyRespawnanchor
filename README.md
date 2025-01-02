@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HappyRespawnanchor&layout=donut-vertical&theme=nord&hide_border=true" align="left" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HappyRespawnanchor&layout=donut-vertical&theme=nord&hide_border=true&hide=javascript,ruby" align="left" />
 </div>
