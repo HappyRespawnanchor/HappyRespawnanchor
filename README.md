@@ -15,6 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HappyRespawnanchor&layout=donut-vertical&theme=nord&hide_border=true&hide=javascript,ruby" align="left" />
-</div>
+
+![HappyRespawnanchor's GitHub stats](https://github-readme-stats.vercel.app/api?username=HappyRespawnanchor&show_icons=true&theme=tokyonight)
