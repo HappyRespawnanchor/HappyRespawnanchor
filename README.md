@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
+Disord: [happyrespawnanchor](https://discord.gg/Nw9SWF4D)
+
 ![HappyRespawnanchor's GitHub stats](https://github-readme-stats.vercel.app/api?username=HappyRespawnanchor&show_icons=true&theme=tokyonight)
