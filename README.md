@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Just an ordinary Minecraft player, occasionally writing small mods on a whim, from Shanghai, China. Nice to meet you all!
 
 Discord: [happyrespawnanchor](https://discord.gg/Nw9SWF4D)
 
