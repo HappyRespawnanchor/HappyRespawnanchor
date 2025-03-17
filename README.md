@@ -14,9 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm HappyRespawnanchor.
 
 Just an ordinary Minecraft player, occasionally writing small mods on a whim, from Shanghai, China. Nice to meet you all!
 
 Discord: [happyrespawnanchor](https://discord.gg/Nw9SWF4D)
+Email: happyrespawnanchor@gmail.com
 
 ![HappyRespawnanchor's GitHub stats](https://github-readme-stats.vercel.app/api?username=HappyRespawnanchor&show_icons=true&theme=tokyonight)
